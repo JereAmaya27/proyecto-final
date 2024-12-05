@@ -74,12 +74,16 @@ Primero se accede al apartado de inicio de sesion de la app donde tendra que col
 #Imagenes app 
 ###inicio de la app
 ![](https://github.com/JereAmaya27/proyecto-final/blob/main/AppFinal/imagenes%20app/inicio.png?raw=true)
+
 ### Agregar de la app
 ![](https://github.com/JereAmaya27/proyecto-final/blob/main/AppFinal/imagenes%20app/agregar.png?raw=true)
+
 ###Inicio de sesion de la app
 ![](https://github.com/JereAmaya27/proyecto-final/blob/main/AppFinal/imagenes%20app/iniciosesion.png?raw=true)
+
 ###Datos guardados en realtime database
 ![](https://github.com/JereAmaya27/proyecto-final/blob/main/AppFinal/imagenes%20app/datos.png?raw=true)
+
 ###Datos inicio de sesion en Authentication
 ![](https://github.com/JereAmaya27/proyecto-final/blob/main/AppFinal/imagenes%20app/regitros.png?raw=true)
 
